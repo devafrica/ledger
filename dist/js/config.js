@@ -1,7 +1,7 @@
 const ExplorerConfig = {
   apiBaseUrl: 'https://restapi.cryptopay.org.za',
   ticker: 'CPA',
-  maxSupply: 10000000000000,
+  maxSupply: 85000000000000,
   emissionSpeed: 19,
   decimalPoints: 6,
   blockTargetTime: 30,
