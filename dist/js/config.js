@@ -9,7 +9,7 @@ const ExplorerConfig = {
   genesisTimestamp: 1600109273,
   emissionCurveInterval: 20000,
   emissionCurveDataPoints: 15000,
-  addressPrefix: 129,
+  addressPrefix: 5078,
   forkHeights: [
     100000
   ]
