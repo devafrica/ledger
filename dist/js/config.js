@@ -4,7 +4,7 @@ const ExplorerConfig = {
   maxSupply: 85000000000000,
   emissionSpeed: 19,
   decimalPoints: 6,
-  blockTargetTime: 30,
+  blockTargetTime: 90,
   startYear: 2020,
   genesisTimestamp: 1600109273,
   emissionCurveInterval: 20000,
