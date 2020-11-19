@@ -6,7 +6,7 @@ const ExplorerConfig = {
   decimalPoints: 6,
   blockTargetTime: 90,
   startYear: 2020,
-  genesisTimestamp: 1600109273,
+  genesisTimestamp: 1604468340,
   emissionCurveInterval: 20000,
   emissionCurveDataPoints: 15000,
   addressPrefix: 5078,
